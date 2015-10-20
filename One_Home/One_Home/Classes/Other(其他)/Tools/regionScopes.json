@@ -1,0 +1,2004 @@
+{
+  "data" : [
+    {
+      "cname" : "浦东",
+      "first_py" : "PD",
+      "full_py" : "pudong",
+      "id" : "53",
+      "lpt_x" : "121.50823400",
+      "lpt_y" : "31.17690600",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "打浦桥",
+      "first_py" : "DPQ",
+      "full_py" : "dapuqiao",
+      "id" : "11",
+      "lpt_x" : "121.47610100",
+      "lpt_y" : "31.21107800",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "白鹤",
+      "first_py" : "BH",
+      "full_py" : "baihe",
+      "id" : "217",
+      "lpt_x" : "121.14673000",
+      "lpt_y" : "31.26181700",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "北外滩",
+      "first_py" : "BWT",
+      "full_py" : "beiwaitan",
+      "id" : "89",
+      "lpt_x" : "121.49191900",
+      "lpt_y" : "31.28249700",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "安亭",
+      "first_py" : "AT",
+      "full_py" : "anting",
+      "id" : "167",
+      "lpt_x" : "121.16892000",
+      "lpt_y" : "31.30092000",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "车墩",
+      "first_py" : "CD",
+      "full_py" : "chedun",
+      "id" : "5743",
+      "lpt_x" : "121.35832600",
+      "lpt_y" : "31.09427600",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "春申",
+      "first_py" : "CS",
+      "full_py" : "chunshen",
+      "id" : "123",
+      "lpt_x" : "121.40256600",
+      "lpt_y" : "31.10958200",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "鞍山",
+      "first_py" : "AS",
+      "full_py" : "anshan",
+      "id" : "107",
+      "lpt_x" : "121.51923500",
+      "lpt_y" : "31.28136900",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "大华",
+      "first_py" : "DH",
+      "full_py" : "dahua",
+      "id" : "148",
+      "lpt_x" : "121.42091000",
+      "lpt_y" : "31.28223700",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "滨江",
+      "first_py" : "BJ",
+      "full_py" : "binjiang",
+      "id" : "40",
+      "lpt_x" : "121.79716400",
+      "lpt_y" : "31.48443800",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "董家渡",
+      "first_py" : "DJD",
+      "full_py" : "dongjiadu",
+      "id" : "22",
+      "lpt_x" : "121.50592400",
+      "lpt_y" : "31.21674800",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "奉城",
+      "first_py" : "FC",
+      "full_py" : "fengcheng",
+      "id" : "200",
+      "lpt_x" : "121.64996700",
+      "lpt_y" : "30.92126400",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "大宁绿地",
+      "first_py" : "DNLD",
+      "full_py" : "daninglvdi",
+      "id" : "143",
+      "lpt_x" : "110.71080500",
+      "lpt_y" : "36.43263600",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "碧云",
+      "first_py" : "BY",
+      "full_py" : "biyun",
+      "id" : "56",
+      "lpt_x" : "121.60779400",
+      "lpt_y" : "31.25816200",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "长寿路",
+      "first_py" : "CSL",
+      "full_py" : "changshoulu",
+      "id" : "109",
+      "lpt_x" : "121.44178700",
+      "lpt_y" : "31.24454800",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "北新泾",
+      "first_py" : "BX",
+      "full_py" : "beixin",
+      "id" : "52",
+      "lpt_x" : "121.37849400",
+      "lpt_y" : "31.22260900",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "嘉兴",
+      "first_py" : "JX",
+      "full_py" : "jiaxing",
+      "id" : "238",
+      "lpt_x" : "120.76042800",
+      "lpt_y" : "30.77399200",
+      "parent_id" : "235"
+    },
+    {
+      "cname" : "漕泾",
+      "first_py" : "CJ",
+      "full_py" : "caojing",
+      "id" : "212",
+      "lpt_x" : "121.41748200",
+      "lpt_y" : "30.80081800",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "堡镇",
+      "first_py" : "BZ",
+      "full_py" : "baozhen",
+      "id" : "228",
+      "lpt_x" : "121.62474200",
+      "lpt_y" : "31.54123000",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "曹家渡",
+      "first_py" : "CJD",
+      "full_py" : "caojiadu",
+      "id" : "6",
+      "lpt_x" : "121.43537500",
+      "lpt_y" : "31.23474500",
+      "parent_id" : "2"
+    },
+    {
+      "cname" : "东外滩",
+      "first_py" : "DWT",
+      "full_py" : "dongwaitan",
+      "id" : "98",
+      "lpt_x" : "121.50610900",
+      "lpt_y" : "31.24073900",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "黄浦滨江",
+      "first_py" : "HPBJ",
+      "full_py" : "huangpubinjiang",
+      "id" : "23",
+      "lpt_x" : "121.49607200",
+      "lpt_y" : "31.22720300",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "长风",
+      "first_py" : "CF",
+      "full_py" : "changfeng",
+      "id" : "112",
+      "lpt_x" : "121.44178700",
+      "lpt_y" : "31.24454800",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "和平公园",
+      "first_py" : "HPGY",
+      "full_py" : "hepinggongyuan",
+      "id" : "93",
+      "lpt_x" : "121.51001200",
+      "lpt_y" : "31.27677800",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "闵行",
+      "first_py" : "MH",
+      "full_py" : "minhang",
+      "id" : "121",
+      "lpt_x" : "121.42502400",
+      "lpt_y" : "31.09353800",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "长桥",
+      "first_py" : "CQ",
+      "full_py" : "changqiao",
+      "id" : "37",
+      "lpt_x" : "121.44611100",
+      "lpt_y" : "31.14164400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "复兴公园",
+      "first_py" : "FXGY",
+      "full_py" : "fuxinggongyuan",
+      "id" : "10",
+      "lpt_x" : "121.47577100",
+      "lpt_y" : "31.22286800",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "动物园",
+      "first_py" : "DWY",
+      "full_py" : "dongwuyuan",
+      "id" : "51",
+      "lpt_x" : "121.37849400",
+      "lpt_y" : "31.22260900",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "古美罗阳",
+      "first_py" : "GMLY",
+      "full_py" : "gumeiluoyang",
+      "id" : "127",
+      "lpt_x" : "121.40997700",
+      "lpt_y" : "31.15407500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "静安寺",
+      "first_py" : "JAS",
+      "full_py" : "jingansi",
+      "id" : "4",
+      "lpt_x" : "121.45205800",
+      "lpt_y" : "31.22940300",
+      "parent_id" : "2"
+    },
+    {
+      "cname" : "崇明",
+      "first_py" : "CM",
+      "full_py" : "chongming",
+      "id" : "226",
+      "lpt_x" : "121.53539800",
+      "lpt_y" : "31.63356500",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "昆山",
+      "first_py" : "KS",
+      "full_py" : "kunshan",
+      "id" : "236",
+      "lpt_x" : "120.96580800",
+      "lpt_y" : "31.32893700",
+      "parent_id" : "235"
+    },
+    {
+      "cname" : "丰庄",
+      "first_py" : "FZ",
+      "full_py" : "fengzhuang",
+      "id" : "170",
+      "lpt_x" : "121.36971700",
+      "lpt_y" : "31.25259400",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "海湾旅游区",
+      "first_py" : "HWLYQ",
+      "full_py" : "haiwanlvyouqu",
+      "id" : "199",
+      "lpt_x" : "121.53494600",
+      "lpt_y" : "30.83228400",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "九亭",
+      "first_py" : "JT",
+      "full_py" : "jiuting",
+      "id" : "178",
+      "lpt_x" : "121.33428100",
+      "lpt_y" : "31.13491700",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "枫泾",
+      "first_py" : "FJ",
+      "full_py" : "fengjing",
+      "id" : "209",
+      "lpt_x" : "121.02355300",
+      "lpt_y" : "30.89241500",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "北蔡",
+      "first_py" : "BC",
+      "full_py" : "beicai",
+      "id" : "71",
+      "lpt_x" : "121.56283100",
+      "lpt_y" : "31.18957700",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "大场",
+      "first_py" : "DC",
+      "full_py" : "dachang",
+      "id" : "165",
+      "lpt_x" : "121.28902200",
+      "lpt_y" : "30.90982900",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "彭浦",
+      "first_py" : "PP",
+      "full_py" : "pengpu",
+      "id" : "146",
+      "lpt_x" : "110.71080500",
+      "lpt_y" : "36.43263600",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "华新",
+      "first_py" : "HX",
+      "full_py" : "huaxin",
+      "id" : "223",
+      "lpt_x" : "121.52816800",
+      "lpt_y" : "31.26728500",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "海湾",
+      "first_py" : "HW",
+      "full_py" : "haiwan",
+      "id" : "203",
+      "lpt_x" : "121.52961600",
+      "lpt_y" : "30.82607800",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "崇明新城",
+      "first_py" : "CMXC",
+      "full_py" : "chongmingxincheng",
+      "id" : "227",
+      "lpt_x" : "121.44082800",
+      "lpt_y" : "31.63845600",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "新客站",
+      "first_py" : "XKZ",
+      "full_py" : "xinkezhan",
+      "id" : "141",
+      "lpt_x" : "121.46205600",
+      "lpt_y" : "31.25592000",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "曹杨",
+      "first_py" : "CY",
+      "full_py" : "caoyang",
+      "id" : "113",
+      "lpt_x" : "121.41271500",
+      "lpt_y" : "31.24496400",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "苏州",
+      "first_py" : "SZ",
+      "full_py" : "suzhou",
+      "id" : "237",
+      "lpt_x" : "120.61990700",
+      "lpt_y" : "31.31798700",
+      "parent_id" : "235"
+    },
+    {
+      "cname" : "金山新城",
+      "first_py" : "JSXC",
+      "full_py" : "jinshanxincheng",
+      "id" : "210",
+      "lpt_x" : "121.34130200",
+      "lpt_y" : "30.75708300",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "江宁路",
+      "first_py" : "JNL",
+      "full_py" : "jiangninglu",
+      "id" : "5",
+      "lpt_x" : "121.45518400",
+      "lpt_y" : "31.24483000",
+      "parent_id" : "2"
+    },
+    {
+      "cname" : "江湾镇",
+      "first_py" : "JWZ",
+      "full_py" : "jiangwanzhen",
+      "id" : "96",
+      "lpt_x" : "121.48793200",
+      "lpt_y" : "31.30513100",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "共康",
+      "first_py" : "GK",
+      "full_py" : "gongkang",
+      "id" : "150",
+      "lpt_x" : "121.44496500",
+      "lpt_y" : "31.32751400",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "松江新城",
+      "first_py" : "SJXC",
+      "full_py" : "songjiangxincheng",
+      "id" : "180",
+      "lpt_x" : "121.23984000",
+      "lpt_y" : "31.03889800",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "嘉定城区",
+      "first_py" : "JDCQ",
+      "full_py" : "jiadingchengqu",
+      "id" : "169",
+      "lpt_x" : "121.25967600",
+      "lpt_y" : "31.38948700",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "淮海中路",
+      "first_py" : "HHZL",
+      "full_py" : "huaihaizhonglu",
+      "id" : "8",
+      "lpt_x" : "121.46284300",
+      "lpt_y" : "31.22196200",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "青浦新城",
+      "first_py" : "QPXC",
+      "full_py" : "qingpuxincheng",
+      "id" : "220",
+      "lpt_x" : "121.09142500",
+      "lpt_y" : "31.13086200",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "老西门",
+      "first_py" : "LXM",
+      "full_py" : "laoximen",
+      "id" : "19",
+      "lpt_x" : "121.49188900",
+      "lpt_y" : "31.22526900",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "黄兴公园",
+      "first_py" : "HXGY",
+      "full_py" : "huangxinggongyuan",
+      "id" : "102",
+      "lpt_x" : "121.53620200",
+      "lpt_y" : "31.29962000",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "古北",
+      "first_py" : "GB",
+      "full_py" : "gubei",
+      "id" : "44",
+      "lpt_x" : "121.40024700",
+      "lpt_y" : "31.20028800",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "复兴中路",
+      "first_py" : "FXZL",
+      "full_py" : "fuxingzhonglu",
+      "id" : "39",
+      "lpt_x" : "121.47123800",
+      "lpt_y" : "31.22086200",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "徐汇",
+      "first_py" : "XH",
+      "full_py" : "xuhui",
+      "id" : "24",
+      "lpt_x" : "121.44623500",
+      "lpt_y" : "31.16915200",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "曹路",
+      "first_py" : "CL",
+      "full_py" : "caolu",
+      "id" : "74",
+      "lpt_x" : "121.67407800",
+      "lpt_y" : "31.28505900",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "华漕",
+      "first_py" : "HC",
+      "full_py" : "huacao",
+      "id" : "128",
+      "lpt_x" : "121.33551700",
+      "lpt_y" : "31.22842900",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "淮海西路",
+      "first_py" : "HHXL",
+      "full_py" : "huaihaixilu",
+      "id" : "25",
+      "lpt_x" : "121.43278700",
+      "lpt_y" : "31.20492500",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "金山中部",
+      "first_py" : "JSZB",
+      "full_py" : "jinshanzhongbu",
+      "id" : "213",
+      "lpt_x" : "121.24840800",
+      "lpt_y" : "30.83508100",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "长征",
+      "first_py" : "CZ",
+      "full_py" : "changzheng",
+      "id" : "116",
+      "lpt_x" : "121.07628000",
+      "lpt_y" : "30.90648300",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "南京西路",
+      "first_py" : "NJXL",
+      "full_py" : "nanjingxilu",
+      "id" : "3",
+      "lpt_x" : "121.46271800",
+      "lpt_y" : "31.23420400",
+      "parent_id" : "2"
+    },
+    {
+      "cname" : "西藏北路",
+      "first_py" : "XCBL",
+      "full_py" : "xicangbeilu",
+      "id" : "142",
+      "lpt_x" : "121.47507800",
+      "lpt_y" : "31.26083800",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "江桥新城",
+      "first_py" : "JQXC",
+      "full_py" : "jiangqiaoxincheng",
+      "id" : "171",
+      "lpt_x" : "121.32699000",
+      "lpt_y" : "31.06630900",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "青浦北部",
+      "first_py" : "QPBB",
+      "full_py" : "qingpubeibu",
+      "id" : "222",
+      "lpt_x" : "121.09142500",
+      "lpt_y" : "31.13086200",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "金汇",
+      "first_py" : "JH",
+      "full_py" : "jinhui",
+      "id" : "204",
+      "lpt_x" : "121.49947600",
+      "lpt_y" : "30.99422500",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "高境",
+      "first_py" : "GJ",
+      "full_py" : "gaojing",
+      "id" : "152",
+      "lpt_x" : "121.48617500",
+      "lpt_y" : "31.32590800",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "虹桥路",
+      "first_py" : "HQL",
+      "full_py" : "hongqiaolu",
+      "id" : "46",
+      "lpt_x" : "121.38356500",
+      "lpt_y" : "31.19824900",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "松江城区",
+      "first_py" : "SJCQ",
+      "full_py" : "songjiangchengqu",
+      "id" : "182",
+      "lpt_x" : "121.22679100",
+      "lpt_y" : "31.02124500",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "普陀",
+      "first_py" : "PT",
+      "full_py" : "putuo",
+      "id" : "108",
+      "lpt_x" : "121.39844300",
+      "lpt_y" : "31.26374300",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "控江路",
+      "first_py" : "KJL",
+      "full_py" : "kongjianglu",
+      "id" : "101",
+      "lpt_x" : "121.53494100",
+      "lpt_y" : "31.28479600",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "桐庐",
+      "first_py" : "TL",
+      "full_py" : "tonglu",
+      "id" : "5742",
+      "lpt_x" : "119.56046200",
+      "lpt_y" : "29.83658200",
+      "parent_id" : "235"
+    },
+    {
+      "cname" : "航华",
+      "first_py" : "HH",
+      "full_py" : "hanghua",
+      "id" : "138",
+      "lpt_x" : "121.35822100",
+      "lpt_y" : "31.17900600",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "川沙",
+      "first_py" : "CS",
+      "full_py" : "chuansha",
+      "id" : "76",
+      "lpt_x" : "121.37188700",
+      "lpt_y" : "31.47683300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "临平路",
+      "first_py" : "LPL",
+      "full_py" : "linpinglu",
+      "id" : "90",
+      "lpt_x" : "121.50320000",
+      "lpt_y" : "31.26757100",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "世博滨江",
+      "first_py" : "SBBJ",
+      "full_py" : "shibobinjiang",
+      "id" : "13",
+      "lpt_x" : "121.46284300",
+      "lpt_y" : "31.22196200",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "陈家镇",
+      "first_py" : "CJZ",
+      "full_py" : "chenjiazhen",
+      "id" : "229",
+      "lpt_x" : "121.81771100",
+      "lpt_y" : "31.50699300",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "南京东路",
+      "first_py" : "NJDL",
+      "full_py" : "nanjingdonglu",
+      "id" : "17",
+      "lpt_x" : "121.49022900",
+      "lpt_y" : "31.24286700",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "五里桥",
+      "first_py" : "WLQ",
+      "full_py" : "wuliqiao",
+      "id" : "12",
+      "lpt_x" : "121.48796300",
+      "lpt_y" : "31.20668200",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "静安新城",
+      "first_py" : "JAXC",
+      "full_py" : "jinganxincheng",
+      "id" : "129",
+      "lpt_x" : "121.38934500",
+      "lpt_y" : "31.16749500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "天山",
+      "first_py" : "TS",
+      "full_py" : "tianshan",
+      "id" : "49",
+      "lpt_x" : "87.63290300",
+      "lpt_y" : "43.78386000",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "顾村",
+      "first_py" : "GC",
+      "full_py" : "gucun",
+      "id" : "154",
+      "lpt_x" : "121.40400700",
+      "lpt_y" : "31.35944200",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "鲁迅公园",
+      "first_py" : "LXGY",
+      "full_py" : "luxungongyuan",
+      "id" : "92",
+      "lpt_x" : "121.48977900",
+      "lpt_y" : "31.27750400",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "阳城永和",
+      "first_py" : "YCYH",
+      "full_py" : "yangchengyonghe",
+      "id" : "145",
+      "lpt_x" : "121.40152200",
+      "lpt_y" : "31.12753200",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "长宁",
+      "first_py" : "CN",
+      "full_py" : "changning",
+      "id" : "43",
+      "lpt_x" : "121.38761600",
+      "lpt_y" : "31.21330100",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "五角场",
+      "first_py" : "WJC",
+      "full_py" : "wujiaochang",
+      "id" : "99",
+      "lpt_x" : "121.52063300",
+      "lpt_y" : "31.30723800",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "泗泾",
+      "first_py" : "SJ",
+      "full_py" : "sijing",
+      "id" : "183",
+      "lpt_x" : "121.27997200",
+      "lpt_y" : "31.12011000",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "其他",
+      "first_py" : "QT",
+      "full_py" : "qita",
+      "id" : "5740",
+      "lpt_x" : "120.96580800",
+      "lpt_y" : "31.32893700",
+      "parent_id" : "235"
+    },
+    {
+      "cname" : "长兴岛",
+      "first_py" : "CXD",
+      "full_py" : "changxingdao",
+      "id" : "231",
+      "lpt_x" : "121.68630700",
+      "lpt_y" : "31.41330000",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "南桥",
+      "first_py" : "NQ",
+      "full_py" : "nanqiao",
+      "id" : "198",
+      "lpt_x" : "121.49947600",
+      "lpt_y" : "30.99422500",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "石化",
+      "first_py" : "SH",
+      "full_py" : "shihua",
+      "id" : "207",
+      "lpt_x" : "121.34598800",
+      "lpt_y" : "30.71964400",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "甘泉宜川",
+      "first_py" : "GQYC",
+      "full_py" : "ganquanyichuan",
+      "id" : "117",
+      "lpt_x" : "109.18223900",
+      "lpt_y" : "36.35354400",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "徐泾",
+      "first_py" : "XJ",
+      "full_py" : "xujing",
+      "id" : "218",
+      "lpt_x" : "121.28091200",
+      "lpt_y" : "31.17657700",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "湖南路",
+      "first_py" : "HNL",
+      "full_py" : "hunanlu",
+      "id" : "26",
+      "lpt_x" : "121.44698400",
+      "lpt_y" : "31.21466600",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "菊园新区",
+      "first_py" : "JYXQ",
+      "full_py" : "juyuanxinqu",
+      "id" : "172",
+      "lpt_x" : "121.25785100",
+      "lpt_y" : "31.40447900",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "花木",
+      "first_py" : "HM",
+      "full_py" : "huamu",
+      "id" : "70",
+      "lpt_x" : "121.55399400",
+      "lpt_y" : "31.21265700",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "松江老城",
+      "first_py" : "SJLC",
+      "full_py" : "songjianglaocheng",
+      "id" : "185",
+      "lpt_x" : "121.22679100",
+      "lpt_y" : "31.02124500",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "崇明其他",
+      "first_py" : "CMQT",
+      "full_py" : "chongmingqita",
+      "id" : "232",
+      "lpt_x" : "121.53539800",
+      "lpt_y" : "31.63356500",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "共富",
+      "first_py" : "GF",
+      "full_py" : "gongfu",
+      "id" : "160",
+      "lpt_x" : "121.40400700",
+      "lpt_y" : "31.35944200",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "新天地",
+      "first_py" : "XTD",
+      "full_py" : "xintiandi",
+      "id" : "9",
+      "lpt_x" : "121.48796300",
+      "lpt_y" : "31.20668200",
+      "parent_id" : "7"
+    },
+    {
+      "cname" : "航头",
+      "first_py" : "HT",
+      "full_py" : "hangtou",
+      "id" : "81",
+      "lpt_x" : "121.60309900",
+      "lpt_y" : "31.03259000",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "重固",
+      "first_py" : "ZG",
+      "full_py" : "zhonggu",
+      "id" : "216",
+      "lpt_x" : "121.18719900",
+      "lpt_y" : "31.20656100",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "西渡",
+      "first_py" : "XD",
+      "full_py" : "xidu",
+      "id" : "205",
+      "lpt_x" : "121.45043700",
+      "lpt_y" : "30.97408800",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "凉城",
+      "first_py" : "LC",
+      "full_py" : "liangcheng",
+      "id" : "95",
+      "lpt_x" : "121.47783500",
+      "lpt_y" : "31.30040300",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "亭林",
+      "first_py" : "TL",
+      "full_py" : "tinglin",
+      "id" : "211",
+      "lpt_x" : "121.32041300",
+      "lpt_y" : "30.88989700",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "闸北公园",
+      "first_py" : "ZBGY",
+      "full_py" : "zhabeigongyuan",
+      "id" : "144",
+      "lpt_x" : "121.46652300",
+      "lpt_y" : "31.27662800",
+      "parent_id" : "140"
+    },
+    {
+      "cname" : "新江湾城",
+      "first_py" : "XJWC",
+      "full_py" : "xinjiangwancheng",
+      "id" : "106",
+      "lpt_x" : "121.52064800",
+      "lpt_y" : "31.33338300",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "嘉定镇",
+      "first_py" : "JDZ",
+      "full_py" : "jiadingzhen",
+      "id" : "173",
+      "lpt_x" : "121.22618600",
+      "lpt_y" : "31.38157700",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "光新",
+      "first_py" : "GX",
+      "full_py" : "guangxin",
+      "id" : "120",
+      "lpt_x" : "121.43855700",
+      "lpt_y" : "31.25729700",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "金虹桥",
+      "first_py" : "JHQ",
+      "full_py" : "jinhongqiao",
+      "id" : "134",
+      "lpt_x" : "121.38934500",
+      "lpt_y" : "31.16749500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "静安",
+      "first_py" : "JA",
+      "full_py" : "jingan",
+      "id" : "2",
+      "lpt_x" : "121.45475600",
+      "lpt_y" : "31.23538100",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "蓬莱公园",
+      "first_py" : "PLGY",
+      "full_py" : "penglaigongyuan",
+      "id" : "20",
+      "lpt_x" : "121.49817100",
+      "lpt_y" : "31.21204200",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "新华路",
+      "first_py" : "XHL",
+      "full_py" : "xinhualu",
+      "id" : "48",
+      "lpt_x" : "87.63290300",
+      "lpt_y" : "43.78386000",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "华东理工",
+      "first_py" : "HDLG",
+      "full_py" : "huadongligong",
+      "id" : "36",
+      "lpt_x" : "121.43209800",
+      "lpt_y" : "31.14974200",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "罗店",
+      "first_py" : "LD",
+      "full_py" : "luodian",
+      "id" : "157",
+      "lpt_x" : "121.34971500",
+      "lpt_y" : "31.42011800",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "杨浦公园",
+      "first_py" : "YPGY",
+      "full_py" : "yangpugongyuan",
+      "id" : "103",
+      "lpt_x" : "121.54251400",
+      "lpt_y" : "31.28688900",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "横沙岛",
+      "first_py" : "HSD",
+      "full_py" : "hengshadao",
+      "id" : "230",
+      "lpt_x" : "121.84870400",
+      "lpt_y" : "31.34395800",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "柘林",
+      "first_py" : "ZL",
+      "full_py" : "zhelin",
+      "id" : "201",
+      "lpt_x" : "121.47806500",
+      "lpt_y" : "30.84382000",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "嘉定新城",
+      "first_py" : "JDXC",
+      "full_py" : "jiadingxincheng",
+      "id" : "176",
+      "lpt_x" : "121.25101400",
+      "lpt_y" : "31.36433800",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "朱泾",
+      "first_py" : "ZJ",
+      "full_py" : "zhujing",
+      "id" : "208",
+      "lpt_x" : "121.17113200",
+      "lpt_y" : "30.90300700",
+      "parent_id" : "206"
+    },
+    {
+      "cname" : "惠南",
+      "first_py" : "HN",
+      "full_py" : "huinan",
+      "id" : "85",
+      "lpt_x" : "121.76170800",
+      "lpt_y" : "31.05244600",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "仙霞",
+      "first_py" : "XX",
+      "full_py" : "xianxia",
+      "id" : "50",
+      "lpt_x" : "121.39920200",
+      "lpt_y" : "31.21398900",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "桃浦",
+      "first_py" : "TP",
+      "full_py" : "taopu",
+      "id" : "118",
+      "lpt_x" : "121.35945300",
+      "lpt_y" : "31.29092000",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "赵巷",
+      "first_py" : "ZX",
+      "full_py" : "zhaoxiang",
+      "id" : "219",
+      "lpt_x" : "121.19485600",
+      "lpt_y" : "31.16488700",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "佘山",
+      "first_py" : "SS",
+      "full_py" : "sheshan",
+      "id" : "186",
+      "lpt_x" : "121.19590400",
+      "lpt_y" : "31.10622500",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "黄浦",
+      "first_py" : "HP",
+      "full_py" : "huangpu",
+      "id" : "14",
+      "lpt_x" : "121.49607200",
+      "lpt_y" : "31.22720300",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "人民广场",
+      "first_py" : "RMGC",
+      "full_py" : "renminguangchang",
+      "id" : "16",
+      "lpt_x" : "121.47894100",
+      "lpt_y" : "31.23600900",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "华泾",
+      "first_py" : "HJ",
+      "full_py" : "huajing",
+      "id" : "38",
+      "lpt_x" : "121.45484400",
+      "lpt_y" : "31.12535300",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "江川路",
+      "first_py" : "JCL",
+      "full_py" : "jiangchuanlu",
+      "id" : "135",
+      "lpt_x" : "121.38502100",
+      "lpt_y" : "31.00164200",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "曲阳",
+      "first_py" : "QY",
+      "full_py" : "quyang",
+      "id" : "94",
+      "lpt_x" : "114.66066400",
+      "lpt_y" : "38.70661200",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "中山公园",
+      "first_py" : "ZSGY",
+      "full_py" : "zhongshangongyuan",
+      "id" : "45",
+      "lpt_x" : "121.42589300",
+      "lpt_y" : "31.22804700",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "老闵行",
+      "first_py" : "LX",
+      "full_py" : "laoxing",
+      "id" : "131",
+      "lpt_x" : "121.42443300",
+      "lpt_y" : "31.01481800",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "外滩滨江",
+      "first_py" : "WTBJ",
+      "full_py" : "waitanbinjiang",
+      "id" : "15",
+      "lpt_x" : "121.49784300",
+      "lpt_y" : "31.24072800",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "四川北路",
+      "first_py" : "SCBL",
+      "full_py" : "sichuanbeilu",
+      "id" : "91",
+      "lpt_x" : "121.48946100",
+      "lpt_y" : "31.26345300",
+      "parent_id" : "88"
+    },
+    {
+      "cname" : "松江大学城",
+      "first_py" : "SJDXC",
+      "full_py" : "songjiangdaxuecheng",
+      "id" : "187",
+      "lpt_x" : "121.21334100",
+      "lpt_y" : "31.05605000",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "武宁",
+      "first_py" : "WN",
+      "full_py" : "wuning",
+      "id" : "111",
+      "lpt_x" : "115.02315900",
+      "lpt_y" : "29.26384400",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "朱家角",
+      "first_py" : "ZJJ",
+      "full_py" : "zhujiajiao",
+      "id" : "221",
+      "lpt_x" : "121.06619400",
+      "lpt_y" : "31.11482900",
+      "parent_id" : "215"
+    },
+    {
+      "cname" : "卢湾",
+      "first_py" : "LW",
+      "full_py" : "luwan",
+      "id" : "7",
+      "lpt_x" : "121.48123800",
+      "lpt_y" : "31.21334800",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "新桥",
+      "first_py" : "XQ",
+      "full_py" : "xinqiao",
+      "id" : "225",
+      "lpt_x" : "121.84870400",
+      "lpt_y" : "31.34395800",
+      "parent_id" : "224"
+    },
+    {
+      "cname" : "南翔",
+      "first_py" : "NX",
+      "full_py" : "nanxiang",
+      "id" : "168",
+      "lpt_x" : "121.26604400",
+      "lpt_y" : "31.30587100",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "杨浦大桥",
+      "first_py" : "YPDQ",
+      "full_py" : "yangpudaqiao",
+      "id" : "104",
+      "lpt_x" : "121.55446100",
+      "lpt_y" : "31.25936800",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "罗泾",
+      "first_py" : "LJ",
+      "full_py" : "luojing",
+      "id" : "163",
+      "lpt_x" : "121.35074400",
+      "lpt_y" : "31.48507200",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "建国西路",
+      "first_py" : "JGXL",
+      "full_py" : "jianguoxilu",
+      "id" : "42",
+      "lpt_x" : "121.45767500",
+      "lpt_y" : "31.20933400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "金桥",
+      "first_py" : "JQ",
+      "full_py" : "jinqiao",
+      "id" : "62",
+      "lpt_x" : "121.79586900",
+      "lpt_y" : "30.98890500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "庄行",
+      "first_py" : "ZX",
+      "full_py" : "zhuangxing",
+      "id" : "202",
+      "lpt_x" : "121.40397700",
+      "lpt_y" : "30.90968100",
+      "parent_id" : "197"
+    },
+    {
+      "cname" : "上大",
+      "first_py" : "SD",
+      "full_py" : "shangda",
+      "id" : "149",
+      "lpt_x" : "121.35074400",
+      "lpt_y" : "31.48507200",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "虹口",
+      "first_py" : "HK",
+      "full_py" : "hongkou",
+      "id" : "88",
+      "lpt_x" : "121.49191900",
+      "lpt_y" : "31.28249700",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "豫园",
+      "first_py" : "YY",
+      "full_py" : "yuyuan",
+      "id" : "18",
+      "lpt_x" : "121.49895500",
+      "lpt_y" : "31.23286900",
+      "parent_id" : "14"
+    },
+    {
+      "cname" : "龙柏金汇",
+      "first_py" : "LBJH",
+      "full_py" : "longbaijinhui",
+      "id" : "133",
+      "lpt_x" : "121.37194200",
+      "lpt_y" : "31.18439100",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "康健",
+      "first_py" : "KJ",
+      "full_py" : "kangjian",
+      "id" : "35",
+      "lpt_x" : "121.45767500",
+      "lpt_y" : "31.20933400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "周家嘴路",
+      "first_py" : "ZJZL",
+      "full_py" : "zhoujiazuilu",
+      "id" : "100",
+      "lpt_x" : "121.51959800",
+      "lpt_y" : "31.27004500",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "真新",
+      "first_py" : "ZX",
+      "full_py" : "zhenxin",
+      "id" : "174",
+      "lpt_x" : "121.26604400",
+      "lpt_y" : "31.30587100",
+      "parent_id" : "166"
+    },
+    {
+      "cname" : "新桥",
+      "first_py" : "XQ",
+      "full_py" : "xinqiao",
+      "id" : "181",
+      "lpt_x" : "121.21334100",
+      "lpt_y" : "31.05605000",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "金杨",
+      "first_py" : "JY",
+      "full_py" : "jinyang",
+      "id" : "77",
+      "lpt_x" : "121.79586900",
+      "lpt_y" : "30.98890500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "镇宁路",
+      "first_py" : "ZNL",
+      "full_py" : "zhenninglu",
+      "id" : "47",
+      "lpt_x" : "121.44331300",
+      "lpt_y" : "31.22522400",
+      "parent_id" : "43"
+    },
+    {
+      "cname" : "万里",
+      "first_py" : "WL",
+      "full_py" : "wanli",
+      "id" : "115",
+      "lpt_x" : "121.53708300",
+      "lpt_y" : "31.08715700",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "中远两湾城",
+      "first_py" : "ZYLWC",
+      "full_py" : "zhongyuanliangwancheng",
+      "id" : "110",
+      "lpt_x" : "121.45582500",
+      "lpt_y" : "31.25841300",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "康桥",
+      "first_py" : "KQ",
+      "full_py" : "kangqiao",
+      "id" : "82",
+      "lpt_x" : "121.58565200",
+      "lpt_y" : "31.14121300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "龙华",
+      "first_py" : "LH",
+      "full_py" : "longhua",
+      "id" : "31",
+      "lpt_x" : "121.45759500",
+      "lpt_y" : "31.17887500",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "莘闵",
+      "first_py" : "XM",
+      "full_py" : "xinmin",
+      "id" : "184",
+      "lpt_x" : "121.35832600",
+      "lpt_y" : "31.09427600",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "杨浦",
+      "first_py" : "YP",
+      "full_py" : "yangpu",
+      "id" : "97",
+      "lpt_x" : "121.53571700",
+      "lpt_y" : "31.30451000",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "中原社区",
+      "first_py" : "ZYSQ",
+      "full_py" : "zhongyuanshequ",
+      "id" : "105",
+      "lpt_x" : "121.51959800",
+      "lpt_y" : "31.27004500",
+      "parent_id" : "97"
+    },
+    {
+      "cname" : "泗塘",
+      "first_py" : "ST",
+      "full_py" : "sitang",
+      "id" : "151",
+      "lpt_x" : "121.47279800",
+      "lpt_y" : "31.40355400",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "龙茗",
+      "first_py" : "LM",
+      "full_py" : "longming",
+      "id" : "139",
+      "lpt_x" : "121.37194200",
+      "lpt_y" : "31.18439100",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "真光",
+      "first_py" : "ZG",
+      "full_py" : "zhenguang",
+      "id" : "114",
+      "lpt_x" : "121.45582500",
+      "lpt_y" : "31.25841300",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "陆家嘴",
+      "first_py" : "LJZ",
+      "full_py" : "lujiazui",
+      "id" : "54",
+      "lpt_x" : "121.50990000",
+      "lpt_y" : "31.24455500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "闸北",
+      "first_py" : "ZB",
+      "full_py" : "zhabei",
+      "id" : "140",
+      "lpt_x" : "121.45776900",
+      "lpt_y" : "31.28804400",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "小昆山",
+      "first_py" : "XKS",
+      "full_py" : "xiaokunshan",
+      "id" : "188",
+      "lpt_x" : "121.14257900",
+      "lpt_y" : "31.04020200",
+      "parent_id" : "177"
+    },
+    {
+      "cname" : "梅陇",
+      "first_py" : "ML",
+      "full_py" : "meilong",
+      "id" : "125",
+      "lpt_x" : "121.42119400",
+      "lpt_y" : "31.14155500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "上海南站",
+      "first_py" : "SHNZ",
+      "full_py" : "shanghainanzhan",
+      "id" : "33",
+      "lpt_x" : "121.43577400",
+      "lpt_y" : "31.15952300",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "淞南",
+      "first_py" : "SN",
+      "full_py" : "songnan",
+      "id" : "153",
+      "lpt_x" : "121.49327800",
+      "lpt_y" : "31.34404400",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "马桥",
+      "first_py" : "MQ",
+      "full_py" : "maqiao",
+      "id" : "137",
+      "lpt_x" : "121.42119400",
+      "lpt_y" : "31.14155500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "联洋",
+      "first_py" : "LY",
+      "full_py" : "lianyang",
+      "id" : "55",
+      "lpt_x" : "121.56540900",
+      "lpt_y" : "31.23345200",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "田林",
+      "first_py" : "TL",
+      "full_py" : "tianlin",
+      "id" : "34",
+      "lpt_x" : "121.43049800",
+      "lpt_y" : "31.17832400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "淞宝",
+      "first_py" : "SB",
+      "full_py" : "songbao",
+      "id" : "162",
+      "lpt_x" : "121.50426500",
+      "lpt_y" : "31.40123300",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "宝山",
+      "first_py" : "BS",
+      "full_py" : "baoshan",
+      "id" : "147",
+      "lpt_x" : "121.40904100",
+      "lpt_y" : "31.39862300",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "真如",
+      "first_py" : "ZR",
+      "full_py" : "zhenru",
+      "id" : "119",
+      "lpt_x" : "121.40864300",
+      "lpt_y" : "31.25261000",
+      "parent_id" : "108"
+    },
+    {
+      "cname" : "通河",
+      "first_py" : "TH",
+      "full_py" : "tonghe",
+      "id" : "161",
+      "lpt_x" : "128.76223200",
+      "lpt_y" : "46.24785700",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "六里",
+      "first_py" : "LL",
+      "full_py" : "liuli",
+      "id" : "69",
+      "lpt_x" : "121.52506400",
+      "lpt_y" : "31.19028600",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "松江",
+      "first_py" : "SJ",
+      "full_py" : "songjiang",
+      "id" : "177",
+      "lpt_x" : "121.22679100",
+      "lpt_y" : "31.02124500",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "万体馆",
+      "first_py" : "WTG",
+      "full_py" : "wantiguan",
+      "id" : "29",
+      "lpt_x" : "121.44852400",
+      "lpt_y" : "31.19462700",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "浦江",
+      "first_py" : "PJ",
+      "full_py" : "pujiang",
+      "id" : "130",
+      "lpt_x" : "121.50494800",
+      "lpt_y" : "31.09676400",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "嘉定",
+      "first_py" : "JD",
+      "full_py" : "jiading",
+      "id" : "166",
+      "lpt_x" : "121.25101400",
+      "lpt_y" : "31.36433800",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "月浦",
+      "first_py" : "YP",
+      "full_py" : "yuepu",
+      "id" : "158",
+      "lpt_x" : "121.43253500",
+      "lpt_y" : "31.42049500",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "徐家汇",
+      "first_py" : "XJH",
+      "full_py" : "xujiahui",
+      "id" : "27",
+      "lpt_x" : "121.44348100",
+      "lpt_y" : "31.20020800",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "七宝",
+      "first_py" : "QB",
+      "full_py" : "qibao",
+      "id" : "126",
+      "lpt_x" : "121.35383600",
+      "lpt_y" : "31.16239500",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "临港新城",
+      "first_py" : "LGXC",
+      "full_py" : "lingangxincheng",
+      "id" : "84",
+      "lpt_x" : "121.93105200",
+      "lpt_y" : "30.90798400",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "吴泾",
+      "first_py" : "WJ",
+      "full_py" : "wujing",
+      "id" : "136",
+      "lpt_x" : "121.47361800",
+      "lpt_y" : "31.04836600",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "斜土路",
+      "first_py" : "XTL",
+      "full_py" : "xietulu",
+      "id" : "30",
+      "lpt_x" : "121.47258100",
+      "lpt_y" : "31.20637700",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "梅园",
+      "first_py" : "MY",
+      "full_py" : "meiyuan",
+      "id" : "79",
+      "lpt_x" : "121.93105200",
+      "lpt_y" : "30.90798400",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "杨行",
+      "first_py" : "YX",
+      "full_py" : "yangxing",
+      "id" : "159",
+      "lpt_x" : "121.44846900",
+      "lpt_y" : "31.37945600",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "青浦",
+      "first_py" : "QP",
+      "full_py" : "qingpu",
+      "id" : "215",
+      "lpt_x" : "121.09142500",
+      "lpt_y" : "31.13086200",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "莘庄",
+      "first_py" : "XZ",
+      "full_py" : "xinzhuang",
+      "id" : "122",
+      "lpt_x" : "121.47361800",
+      "lpt_y" : "31.04836600",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "张庙",
+      "first_py" : "ZM",
+      "full_py" : "zhangmiao",
+      "id" : "164",
+      "lpt_x" : "121.45883300",
+      "lpt_y" : "31.34196600",
+      "parent_id" : "147"
+    },
+    {
+      "cname" : "南码头",
+      "first_py" : "NMT",
+      "full_py" : "nanmatou",
+      "id" : "66",
+      "lpt_x" : "121.51449500",
+      "lpt_y" : "31.20504000",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "肇嘉浜路",
+      "first_py" : "ZJL",
+      "full_py" : "zhaojialu",
+      "id" : "28",
+      "lpt_x" : "121.45851500",
+      "lpt_y" : "31.20656400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "金山",
+      "first_py" : "JS",
+      "full_py" : "jinshan",
+      "id" : "206",
+      "lpt_x" : "121.24840800",
+      "lpt_y" : "30.83508100",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "植物园",
+      "first_py" : "ZWY",
+      "full_py" : "zhiwuyuan",
+      "id" : "32",
+      "lpt_x" : "121.45851500",
+      "lpt_y" : "31.20656400",
+      "parent_id" : "24"
+    },
+    {
+      "cname" : "泥城",
+      "first_py" : "NC",
+      "full_py" : "nicheng",
+      "id" : "80",
+      "lpt_x" : "121.83747200",
+      "lpt_y" : "30.90872100",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "颛桥",
+      "first_py" : "ZQ",
+      "full_py" : "zhuanqiao",
+      "id" : "132",
+      "lpt_x" : "121.39201200",
+      "lpt_y" : "31.42288600",
+      "parent_id" : "121"
+    },
+    {
+      "cname" : "奉贤",
+      "first_py" : "FX",
+      "full_py" : "fengxian",
+      "id" : "197",
+      "lpt_x" : "121.56064200",
+      "lpt_y" : "30.91512200",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "浦东外环",
+      "first_py" : "PDWH",
+      "full_py" : "pudongwaihuan",
+      "id" : "72",
+      "lpt_x" : "121.40833100",
+      "lpt_y" : "30.88408300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "崇明",
+      "first_py" : "CM",
+      "full_py" : "chongming",
+      "id" : "224",
+      "lpt_x" : "121.53539800",
+      "lpt_y" : "31.63356500",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "上海周边",
+      "first_py" : "SHZB",
+      "full_py" : "shanghaizhoubian",
+      "id" : "235",
+      "lpt_x" : "121.48789900",
+      "lpt_y" : "31.24916200",
+      "parent_id" : "0"
+    },
+    {
+      "cname" : "世纪公园",
+      "first_py" : "SJGY",
+      "full_py" : "shijigongyuan",
+      "id" : "57",
+      "lpt_x" : "121.55850800",
+      "lpt_y" : "31.22177700",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "世博滨江",
+      "first_py" : "SBBJ",
+      "full_py" : "shibobinjiang",
+      "id" : "65",
+      "lpt_x" : "121.55850800",
+      "lpt_y" : "31.22177700",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "上南",
+      "first_py" : "SN",
+      "full_py" : "shangnan",
+      "id" : "67",
+      "lpt_x" : "121.50823400",
+      "lpt_y" : "31.17690600",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "三林",
+      "first_py" : "SL",
+      "full_py" : "sanlin",
+      "id" : "68",
+      "lpt_x" : "121.53130100",
+      "lpt_y" : "31.14968900",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "塘桥",
+      "first_py" : "TQ",
+      "full_py" : "tangqiao",
+      "id" : "58",
+      "lpt_x" : "121.53130100",
+      "lpt_y" : "31.14968900",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "唐镇",
+      "first_py" : "TZ",
+      "full_py" : "tangzhen",
+      "id" : "75",
+      "lpt_x" : "121.66042700",
+      "lpt_y" : "31.21542800",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "外金桥",
+      "first_py" : "WJQ",
+      "full_py" : "waijinqiao",
+      "id" : "63",
+      "lpt_x" : "121.66042700",
+      "lpt_y" : "31.21542800",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "外高桥",
+      "first_py" : "WGQ",
+      "full_py" : "waigaoqiao",
+      "id" : "73",
+      "lpt_x" : "121.59443300",
+      "lpt_y" : "31.34878300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "潍坊",
+      "first_py" : "WF",
+      "full_py" : "weifang",
+      "id" : "78",
+      "lpt_x" : "121.52950200",
+      "lpt_y" : "31.22804500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "新场",
+      "first_py" : "XC",
+      "full_py" : "xinchang",
+      "id" : "86",
+      "lpt_x" : "121.65092200",
+      "lpt_y" : "31.03030800",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "杨东",
+      "first_py" : "YD",
+      "full_py" : "yangdong",
+      "id" : "59",
+      "lpt_x" : "121.51349500",
+      "lpt_y" : "31.16866300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "源深",
+      "first_py" : "YS",
+      "full_py" : "yuanshen",
+      "id" : "60",
+      "lpt_x" : "121.51349500",
+      "lpt_y" : "31.16866300",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "洋泾",
+      "first_py" : "YJ",
+      "full_py" : "yangjing",
+      "id" : "61",
+      "lpt_x" : "121.55962200",
+      "lpt_y" : "31.24984500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "张江",
+      "first_py" : "ZJ",
+      "full_py" : "zhangjiang",
+      "id" : "64",
+      "lpt_x" : "121.59184900",
+      "lpt_y" : "31.21082500",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "周浦",
+      "first_py" : "ZP",
+      "full_py" : "zhoupu",
+      "id" : "83",
+      "lpt_x" : "121.58337700",
+      "lpt_y" : "31.12259700",
+      "parent_id" : "53"
+    },
+    {
+      "cname" : "祝桥",
+      "first_py" : "ZQ",
+      "full_py" : "zhuqiao",
+      "id" : "87",
+      "lpt_x" : "121.68023000",
+      "lpt_y" : "31.07373300",
+      "parent_id" : "53"
+    }
+  ],
+  "message" : "数据提交成功",
+  "status" : "200"
+}

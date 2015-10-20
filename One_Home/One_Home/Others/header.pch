@@ -1,0 +1,174 @@
+
+// 1.判断是否为iOS7
+#define iOS7 ([[UIDevice currentDevice].systemVersion doubleValue] >= 7.0)
+
+
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...){}
+#endif
+
+/*
+ 头文件
+ */
+/**     Tools      */
+#import "ViewTool.h"
+#import "HttpTool.h"
+#import "UtilSG.h"
+
+/**    Cache       */
+#import "CacheManager.h"
+
+/**    Extension   */
+#import "UIView+Extension.h"
+#import "UILabel+Extension.h"
+#import "UIImage+Extension.h"
+#import "UIImage+animatedGIF.h"
+
+/**    ThirdParts  */
+#import "MJRefresh.h"
+#import "MJExtension.h"
+#import "MBProgressHUD.h"
+#import "MBProgressHUD+MJ.h"
+#import "AFNetworking.h"
+#import "UIImageView+WebCache.h"
+
+
+/**    EnumConst   */
+#import "EnumConst.h"
+
+
+/*
+ 宏定义
+ */
+
+#define OneMargin       (10.0f)
+
+//状态栏高度
+#define STATUS_BAR_HEIGHT 20
+
+//NavBar高度
+#define NAVIGATION_BAR_HEIGHT 44
+
+//TabBar高度
+#define TAB_BAR_HEIGHT 49
+
+//状态栏 ＋ 导航栏 高度
+#define STATUS_AND_NAVIGATION_HEIGHT ((STATUS_BAR_HEIGHT) + (NAVIGATION_BAR_HEIGHT))
+
+//屏幕 rect
+#define SCREEN_RECT     ([UIScreen mainScreen].bounds)
+
+#define OneScreenW      ([UIScreen mainScreen].bounds.size.width)
+
+#define OneScreenH      ([UIScreen mainScreen].bounds.size.height)
+
+#define ContainerH      OneScreenH - STATUS_AND_NAVIGATION_HEIGHT - TAB_BAR_HEIGHT
+
+#define FILTER_HEIGHT   35.0f
+
+#define MENU_HEIGHT    100.0f
+
+
+
+
+#define OneUserDefault [NSUserDefaults standardUserDefaults]
+
+// 存储版本键
+#define OneSaveVersion @"saveVersion"
+
+// 网络状态键
+#define OneIsNetWork @"isNetWork"
+
+
+
+//字体
+#define CommonFontName @"HelveticaNeue-Light"
+
+#define  BoldFont       @"Noteworthy-Bold"
+
+#define OneFont(size)   [UIFont systemFontOfSize:size]
+#define OneFontWithName(fontName,siZe) [UIFont fontWithName:fontName size:siZe]
+
+//图片
+#define  OneImage(name) [UIImage imageNamed:name]
+
+//渲染保持原颜色信息图片
+#define OneOriginalImage(name) [OneImage(name) imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal]
+
+//颜色
+#define  ONERGB(r,g,b) [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:1]
+
+
+//JSON解析
+#define OneJsonParserWithData(data) [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil]
+
+
+
+
+
+
+
+
+#define TimeoutInterval 20//超时时间
+
+
+
+
+/*----------------------网址接口-------------------------------*/
+
+/*  主机域名地址(端口) 防止以后更改域名或者端口,所以提取出来*/
+#define Host_And_Port @"http://api.loulifang.com.cn"
+
+/*------- page:当前页数 --------------   count:获取数量---------*/
+
+
+/**
+ *  第一次登陆(因为90%基本都是POST请求，所以现在模拟本人用户登录)
+ */
+//配置信息获取
+
+//
+
+/*
+ 首页--接口
+*/
+//房屋列表
+#define HOUSE_LIST_URL @"%@/house/list.html"
+
+
+//房屋详情
+#define HOUSE_DETAIL_URL @"%@/house/detail.html"
+
+
+//订单信息
+#define ORDER_RECENTLY_URL @"%@/order/recently.html"
+
+//获取城市列表
+#define CITY_MENU_URL @"%@/common/onlinecity.html"
+
+//筛选条件
+#define SELECT_URL @"%@/house/select.html"
+
+//区域选择
+#define REGIONSCOPES_URL @"%@/location/regionscopes.html"
+
+//加入圈子页面
+#define JOIN_HOT_URL  @"%@/circle/joinhot.html"
+
+//获取所有的圈子
+#define ALL_LIST_JOIN_URL @"%@/circle/alllistjoin.html"
+
+//加入获取退出圈子
+#define JOIN_OR_QUIT_URL  @"%@/circle/member/update.html"
+
+//已经加入的圈子
+#define JOIN_LIST_URL     @"%@/circle/listjoin.html"
+
+#define HOT_NEW_URL      @"%@/circle/post/hotnew.html"
+
+
+
+
+
